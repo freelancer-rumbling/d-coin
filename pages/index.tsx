@@ -76,15 +76,8 @@ export default function Home() {
           >
             Rise of Crypto
           </h4>
-          <p className="text-white text-xl">
-            Crypto Zone didnt knock. It happened: loud, bold, and built for
-            disruption. Its here to flip the script and leave a mark that cant
-            be ignored.
-          </p>
-          <p className="text-white text-xl">
-            Its not here to fit in. Its here to take over. Once you spot the
-            zone, theres no going back.
-          </p>
+          <p className="text-white text-xl"></p>
+          <p className="text-white text-xl"></p>
         </div>
         <div className="p-5 rounded-full bg-[#F4901A]">
           <BsCurrencyBitcoin className="text-[50px] md:text-[300px]" />
