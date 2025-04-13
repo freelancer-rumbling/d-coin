@@ -77,13 +77,13 @@ export default function Home() {
             Rise of Crypto
           </h4>
           <p className="text-white text-xl">
-            Crypto Zone didn`t knock. It happened: loud, bold, and built for
-            disruption. It`s here to flip the script and leave a mark that can`t
-            be ignored.
+            Crypto Zone didn&apos;t knock. It happened: loud, bold, and built
+            for disruption. It&apos;s here to flip the script and leave a mark
+            that can&apos;t be ignored.
           </p>
           <p className="text-white text-xl">
-            It`s not here to fit in. It`s here to take over. Once you spot the
-            zone, there`s no going back.
+            It&apos;s not here to fit in. It&apos;s here to take over. Once you
+            spot the zone, there&apos;s no going back.
           </p>
         </div>
         <div className="p-5 rounded-full bg-[#F4901A]">
@@ -95,7 +95,7 @@ export default function Home() {
           >
             <div className="inline-block animate-marquee whitespace-nowrap text-[80px] text-black">
               {Array.from({ length: 20 }).map(
-                (_, index) => "CRYPTO ZONE | CRYPTO ZONE | CRYPTO ZONE | "
+                (_) => "CRYPTO ZONE | CRYPTO ZONE | CRYPTO ZONE | "
               )}
             </div>
           </div>
@@ -106,7 +106,7 @@ export default function Home() {
           >
             <div className="inline-block animate-marquee whitespace-nowrap text-[80px] text-black">
               {Array.from({ length: 20 }).map(
-                (_, index) => "CRYPTO ZONE | CRYPTO ZONE | CRYPTO ZONE | "
+                (_) => "CRYPTO ZONE | CRYPTO ZONE | CRYPTO ZONE | "
               )}
             </div>
           </div>
