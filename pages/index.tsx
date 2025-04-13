@@ -77,13 +77,13 @@ export default function Home() {
             Rise of Crypto
           </h4>
           <p className="text-white text-xl">
-            Crypto Zone didn't knock. It happened: loud, bold, and built for
-            disruption. It's here to flip the script and leave a mark that can't
+            Crypto Zone didn`t knock. It happened: loud, bold, and built for
+            disruption. It`s here to flip the script and leave a mark that can`t
             be ignored.
           </p>
           <p className="text-white text-xl">
-            It's not here to fit in. It's here to take over. Once you spot the
-            zone, there's no going back.
+            It`s not here to fit in. It`s here to take over. Once you spot the
+            zone, there`s no going back.
           </p>
         </div>
         <div className="p-5 rounded-full bg-[#F4901A]">
